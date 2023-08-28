@@ -8,6 +8,7 @@ const Navbar = () => {
       backgroundColor="gray.700"
       color="white"
       p={4}
+      position="sticky"
     >
      <Heading as="h3" size="lg">
      <Link as={RLink} to="/" fontFamily="cursive">Versencia</Link>

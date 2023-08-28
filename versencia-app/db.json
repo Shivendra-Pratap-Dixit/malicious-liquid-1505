@@ -1,0 +1,301 @@
+{
+    "Lookbook": [
+      {
+        "name": "Casual Shirt",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231118-1a.jpg",
+        "category":"shirt",
+        "price": 1100,
+        "rating": 4.7,
+        "brand":"Pepe",
+        "id": 1
+      },
+      {
+        "name": "Casual T-Shirt",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-221740-1000x1250.jpg",
+        "category":"T-shirt",
+        "price": 1150,
+        "rating": 4.8,
+        "brand":"Ck",
+        "id": 2
+      },
+      {
+        "name": "Casual Shirt",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231540-1-1000x1250.jpg",
+        "category":"shirt",
+        "price": 1200,
+        "rating": 4,
+        "brand":"Nike",
+        "id": 3
+      },
+      {
+        "name": "Addidos Pants",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231637-1-1000x1250.jpg",
+        "category":"pants",
+        "price": 1199,
+        "rating": 4.4,
+        "brand":"Addidos",
+        "id": 4
+      },
+      {
+        "name": "Sarut",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-220542-1000x1250.jpg",
+        "category":"shirt",
+        "price": 1000,
+        "rating": 4.1,
+        "brand":"Nike",
+        "id": 5
+      }
+      
+    ],
+    "hard":[
+
+      {
+        "id": 1,
+        "title": "Oops!… I Did It Again , T-Shirt",
+        "price": 109,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"SHORT SLEEVE OVERSIZED SCREEN PRINTED COTTON T-SHIRT .THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.",
+        "image": "https://hardclo.com/wp-content/uploads/2023/05/Hard-Clo-SS232110-1_e.jpg",
+        "rating": 3.9
+      },
+      {
+        "id": 2,
+        "title": "Proudly Hard",
+        "price": 209,
+        "type":"t-shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/06/IMG_2572-1000x1250.jpg",
+        "rating": 3.5
+      },
+      {
+        "id": 3,
+        "title": "Stronger T-SHIRT",
+        "price": 119,
+        "type":"t-shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/05/Hard-Clo-SS231018-1_e-1000x1250.jpg",
+        "rating": 3.3
+      },
+      {
+        "id": 4,
+        "title": "Lucky T-SHIRT",
+        "price": 99,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/05/Hard-Clo-SS231131-1_e-1000x1250.jpg",
+        "rating": 3.0
+      },
+      {
+        "id": 5,
+        "title": "Hardlo Green",
+        "price": 99,
+        "type":"t-shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231089-1-1000x1250.jpg",
+        "rating": 5.0
+      },
+      {
+        "id": 6,
+        "title": "Basket Black",
+        "price": 75,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231329-1-1000x1250.jpg",
+        "rating": 4.5
+      },
+      {
+        "id": 7,
+        "title": "Hard To Find ,Orange",
+        "price": 299,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS230996-1-1000x1250.jpg",
+        "rating": 4.6
+      },
+      {
+        "id": 8,
+        "title": "Hard Star",
+        "price": 155,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS232034-1000x1250.jpg",
+        "rating": 4.4
+      },
+      {
+        "id": 9,
+        "title": "Super Star",
+        "price": 135,
+        "type":"t-shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231018-1-1000x1250.jpg",
+        "rating": 4.4
+      },
+      {
+        "id": 10,
+        "title": "Cropped T-SHIRT",
+        "price": 135,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231076-1-1000x1250.jpg",
+        "rating": 4.4
+      },
+      {
+        "id": 11,
+        "title": "Shocks One XAP",
+        "price": 35,
+        "type":"shocks",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/03/JSPH7080-1000x1250.jpg",
+        "rating": 4.2
+      },
+      {
+        "id": 12,
+        "title": "Shocks Two XAP",
+        "price": 30,
+        "type":"shocks",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/03/JSPH7025-1000x1250.jpg",
+        "rating": 4.7
+      },
+      {
+        "id": 13,
+        "title": "Shocks Three XAP",
+        "price": 32,
+        "type":"shocks",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-221389-1000x1250.jpg",
+        "rating": 3.7
+      },
+      {
+        "id": 14,
+        "title": "Hat One XAP",
+        "price": 22,
+        "type":"cap",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-221985-1000x1250.jpg",
+        "rating": 3.5
+      },
+      {
+        "id": 15,
+        "title": "Hat Two XAP",
+        "price": 25,
+        "type":"cap",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-221463-1000x1250.jpg",
+        "rating": 3.6
+      },
+      {
+        "id": 16,
+        "title": "SweatShirt Pants Black",
+        "price": 125,
+        "type":"pants",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-220542-1000x1250.jpg",
+        "rating": 3.1
+      },
+      {
+        "id": 17,
+        "title": "SweatShirt Pants Blue",
+        "price": 125,
+        "type":"pants",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-220906-1000x1250.jpg",
+        "rating": 3.5
+      },
+      {
+        "id": 18,
+        "title": "Hard T-Shirt",
+        "price": 105,
+        "type":"t-shirt",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS230881-1-1000x1250.jpg",
+        "rating": 3.7
+      },
+      {
+        "id": 19,
+        "title": "Emoji Shirt",
+        "price": 199,
+        "type":"shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231637-1-1000x1250.jpg",
+        "rating": 2.9
+      },
+      {
+        "id": 20,
+        "title": "Digital Shirt",
+        "price": 299,
+        "type":"shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231540-1-1000x1250.jpg",
+        "rating": 4.9
+      },
+      {
+        "id": 21,
+        "title": "Over Shirt",
+        "price": 99,
+        "type":"shirt",
+        "category": "Mens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2022/10/Hard-Clo-FW22-1-10-221740-1000x1250.jpg",
+        "rating": 3.9
+      },
+      {
+        "id": 22,
+        "title": "Star Cap",
+        "price": 99,
+        "type":"cap",
+        "category": "Womens",
+        "size":"XL,M,L",
+        "description":"THIS T-SHIRT IS DESIGNED FOR A LOOSE FIT , CREW NECK .100% COTTON 175 GR.MACHINE WASH .",
+        "image": "https://hardclo.com/wp-content/uploads/2023/04/Hard-Clo-SS231118-1a.jpg",
+        "rating": 3.9
+      }
+      
+
+      
+      
+
+    ]
+    
+  }
