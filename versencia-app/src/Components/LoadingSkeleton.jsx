@@ -1,8 +1,15 @@
-import React from 'react'
-
-const LoadingSkeleton = () => {
+import {Skeleton,Stack} from "@chakra-ui/react"
+function LoadingSkeleton() {
   return (
-    <div>LoadingSkeleton</div>
+      <Stack>
+      {/* Add chakra-ui Skeleton components here */}   
+      <Skeleton height="80px"/> 
+      <Skeleton height="80px"/> 
+      <Skeleton height="80px"/> 
+      <Skeleton height="80px"/> 
+      <Skeleton height="80px"/> 
+      <Skeleton height="80px"/> 
+      </Stack>
   )
 }
 

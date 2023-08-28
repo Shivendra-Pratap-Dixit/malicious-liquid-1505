@@ -1,9 +1,17 @@
-import React from 'react'
-
-const ErrorMessage = () => {
-  return (
-    <div>ErrorMessage</div>
-  )
+import {
+  Alert,
+  AlertIcon,
+  AlertTitle,
+  AlertDescription,
+} from '@chakra-ui/react'
+function ErrorMessage() {
+  return <>
+  <Alert status='error'>
+  <AlertIcon />
+  <AlertTitle>Error</AlertTitle>
+  <AlertDescription> Something went wrong, Please refresh</AlertDescription>
+</Alert>
+  </>;
 }
 
-export default ErrorMessage
+export default ErrorMessage;
